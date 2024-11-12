@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @arnavdoshi1
-- 👀 I hate programming, but i'm decent at it.
+- 👀 I do NOT like programming for long hours, but i'm decent at it.
 - Known Languages:
 - C#, C++, Python, C, Java, Swift, Ruby, PHP, JavaScript, LuaKotlin, HTML
 WIP: Assembly x86-64
-- 🌱 I’m currently learning backend c#
+- 🌱 I’m currently learning backend c#, and mastering Java.
 - 💞️ I’m looking to collaborate on group projects focused on finding ways to make life easier.
 - 📫 How to reach me: Discord - sqvv PN - +1(732)-662-9175 Personal Email: arnavdoshi07@gmail.com
 - 😄 Pronouns: he/him
