@@ -5,7 +5,7 @@
 WIP: Assembly x86-64
 - 🌱 I’m currently learning backend c#, and mastering Java.
 - 💞️ I’m looking to collaborate on group projects focused on finding ways to make life easier.
-- 📫 How to reach me: Discord - sqvv PN - +1(732)-662-9175 Personal Email: arnavdoshi07@gmail.com
+- 📫 How to reach me: Discord - sqvv Personal Email: arnavdoshi07@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My first ever language I learned was Lua, (roblox development)
 
